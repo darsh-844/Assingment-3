@@ -1,0 +1,20 @@
+body {
+    border: 2px solid #000000;
+}
+
+.box{
+    text-align: left;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+}
+
+#innerbox {
+    padding: 40px;
+    width: 500px;
+    background-color: #fff000;
+    border: 30px solid #0000ff;
+    text-align: center;
+}
+
